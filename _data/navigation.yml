@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://mhshaaban.github.io/minimal-mistakes/about.html
+    url: /about/
   - title: "Working Papers"
      url: /working-papers/
   - title: "Team"
