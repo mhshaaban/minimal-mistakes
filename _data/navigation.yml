@@ -4,9 +4,3 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Working Papers"
-     url: /working-papers/
-  - title: "Team"
-     url: /team/
-  - title: "Activites"
-    url: /activities/
