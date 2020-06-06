@@ -2,8 +2,10 @@
 main:
   - title: "Home"
     url: "./index.html"
+    
   - title: "About"
     url: /about/
+    
   - title: "Activities"
     url: /activities/
     children:
@@ -15,5 +17,6 @@ main:
         url: /Alexandria_October2019/
       - title: "Middle East Studies Association - 2019"
         url: /NewOrleands_MESA_November2019/
+        
   - title: "Working Papers"
     url: /working_papers/
