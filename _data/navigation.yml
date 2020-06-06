@@ -1,22 +1,10 @@
 # main links
-foo:
+main:
   - title: "Home"
-    url: "./index.html"
-    
+    url: "./index.html"    
   - title: "About"
-    url: /about/
-    
+    url: /about/    
   - title: "Activities"
     url: /activities/
-    children:
-      - title: "School of Mamluk Studies - 2019"
-        url: /Tokyo_SMS_July2019/
-      - title: "EGYLandscape Workshop - 2019"
-        url: /Marburg_Workshop_September2019/
-      - title: "About"
-        url: /Alexandria_October2019/
-      - title: "Middle East Studies Association - 2019"
-        url: /NewOrleands_MESA_November2019/
-        
   - title: "Working Papers"
     url: /working_papers/
