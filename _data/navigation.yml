@@ -3,7 +3,9 @@ main:
   - title: "Home"
     url: "./index.html"    
   - title: "About"
-    url: /about/    
+    url: /about/
+  - title: "Team Members"
+    url: /team_members/  
   - title: "Activities"
     url: /activities/
   - title: "Working Papers"
