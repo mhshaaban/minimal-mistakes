@@ -223,6 +223,13 @@ collections:
   papers:
     output: true
     permalink: /:collection/:path/
+  activities:
+    output: true
+    permalink: /:collection/:path/
+  workshops:
+    output: true
+    permalink: /:collection/:path/
+    
 
 # Sass/SCSS
 sass:
