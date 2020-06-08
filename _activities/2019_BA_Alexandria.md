@@ -22,8 +22,6 @@ gallery:
     alt: "placeholder image 5"
 ---
 
-[*Download PDF Here*](https://mhshaaban.github.io/minimal-mistakes/activities/June2020_Fuess_WorkingPaper.pdf)
-
 ## EGYLandscape Project Panel 
 **Islamic Civilization Studies Center (Bibliotheca Alexandrina) - Alexandria, Egypt**
 *31 October 2019*
