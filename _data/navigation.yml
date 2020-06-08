@@ -5,8 +5,8 @@ main:
   - title: "About"
     url: /about/
   - title: "Team Members"
-    url: /portfolio/  
+    url: /team-members/  
   - title: "Activities"
     url: /activities/
   - title: "Working Papers"
-    url: /working_papers/
+    url: /working-papers/
