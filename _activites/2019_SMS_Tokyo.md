@@ -4,6 +4,13 @@ excerpt: "Waseda University, Tokyo (Japan)"
 toc: true
 toc_sticky: true
 layout: single
+gallery:
+  - url: /_activities/Tokyo_SMS_July_001.JPG
+    image_path: /_activities/Tokyo_SMS_July_001.JPG
+    alt: "placeholder image 1"
+  - url: /_activities/Tokyo_SMS_July_002.JPG
+    image_path: /_activities/Tokyo_SMS_July_002.JPG
+    alt: "placeholder image 2"
 ---
 
 ## Sixth Conference of the School of Mamluk Studies
