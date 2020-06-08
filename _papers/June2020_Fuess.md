@@ -1,14 +1,18 @@
 ---
-title: "Working Paper 1: Albrecht Fuess"
-excerpt: "One of the main question for early modern societies is the aspect of how to organize land tenureship and its taxation."
+title: "Waqfization in the late Mamluk Empire: A deliberate policy or chaos management? "
+excerpt: "**Albrecht Fuess**"
 toc: true
 layout: single
 ---
 
-[*Download PDF Here*](http://github.com)
+[*Download PDF Here*](https://mhshaaban.github.io/egylandscape/papers/June2020_Fuess_WorkingPaper.pdf)
 
+## Albrecht Fuess
+*Philipps-Universität Marburg*
 
-### Introduction 
+### Waqfization in the late Mamluk Empire: A deliberate policy or chaos management?
+
+#### Introduction 
 	
 One of the main question for early modern societies is the aspect of how to organize land tenureship and its taxation. Here, the Mamluk Empire is no odd one out. Several reforms and re-adjustments took place during its existence, which were conducted in reaction to changing circumstances. A major development, in this context, thereby took place in the fifteenth century: the so-called waqfization of land tenureship. The term waqfization means here the increase of waqf  lands (i.e. those held by religious endowments) issued by Mamluk authorities to members of the military and urban elite to the detriment of the traditional iqṭāʿ system. This was combined with an increase in forms of direct cash payments to soldiers instead of the indirect payments made through the iqṭāʿ system. While we know that around half of the cultivable land was transformed into waqf land at the beginning of the sixteenth century [^1], we still are fumbling in the dark about the actual reasons that triggered the process. The present contribution will therefore look at the question of whether waqfization represented a planned policy of the Mamluk sultans or if it came about as a gradual change due to historical circumstances. In the following working paper, the development of land taxation under the Mamluks and some views on the issue by three Mamluk historians will be presented. This will be followed by arguments of modern scholars and then an elaboration of my own personal hypothesis. 
 
@@ -60,7 +64,7 @@ Another argument against a possible waqf “master-plan” hypothesis is that th
 
 What do we have concerning the overall assessment of the waqfization? The main point is that it clearly happened on a large scale after the mid-fifteenth century. For the exact reason of the phenomenon, we still have to speculate. It might have been a sign of economic downturn as a whole and symptom of the Mamluk Empire falling apart. But, why should the leaders of the country act against the interests of their regime, which they had sworn to secure as Mamluk warriors? Hence my speculation: leading amirs tried to adjust the system in the direction of the very successful Ottomans, and in doing so, they were able to stabilize their reign for almost seventy years after the fall of Constantinople despite the fact that they had less resources at hand than the Ottomans. However, the way the Mamluk sources describe the situation of the Mamluk lands is that of a realm which is in constant chaos and crises. But does the long survival of this crisis state not prove that the continuous reforms – including the mixing of different land tenure models – did work to a certain extent? Hopefully, within the current EgyLandscape Project, new facts might come to light which will help us to understand the processes of land tenure better.
 
-##### Works Cited
+#### Works Cited
 
 Abū Ghāzī, ʿImād Badr al-Dīn. Fī Tārīkh Miṣr al-Ijtimā‘ī: Taṭawwur al-Ḥiyāzah al-Zirā‘īyah Zamān al-Mamālīk al-Jarākisah (On the social history of Egypt: the development of landholding in the age of the Circassian Mamluks). Cairo: ʿAyn lil-Dirāsāt wa-‘l-Buḥūth al-Insānīyah wa-‘l-Ijtima’īyah, 2000.
 
