@@ -68,63 +68,63 @@ What do we have concerning the overall assessment of the *waqfization*? The main
 
 ##### Works Cited
 
-Abū Ghāzī, ʿImād Badr al-Dīn. Fī Tārīkh Miṣr al-Ijtimā‘ī: Taṭawwur al-Ḥiyāzah al-Zirā‘īyah Zamān al-Mamālīk al-Jarākisah (On the social history of Egypt: the development of landholding in the age of the Circassian Mamluks). Cairo: ʿAyn lil-Dirāsāt wa-‘l-Buḥūth al-Insānīyah wa-‘l-Ijtima’īyah, 2000.
+Abū Ghāzī, ʿImād Badr al-Dīn. *Fī Tārīkh Miṣr al-Ijtimā'ī: Taṭawwur al-Ḥiyāzah al-Zirā'īyah Zamān al-Mamālīk al-Jarākisah* (On the social history of Egypt: the development of landholding in the age of the Circassian Mamluks). Cairo: ʿAyn lil-Dirāsāt wa-'l-Buḥūth al-Insānīyah wa-'l-Ijtima'īyah, 2000.
 
-Al-Maqrīzī, Taqī al-Dīn. Kitāb al-sulūk li-ma‘rifa duwal al-mulūk, edited by Muḥammad Muṣṭafā Ziyāda. Cairo: Maṭba‘a Lajna al-Tā’līf wa-Tarjam wa-Nashr, 1972.
+Al-Maqrīzī, Taqī al-Dīn. *Kitāb al-sulūk li-ma'rifa duwal al-mulūk*, edited by Muḥammad Muṣṭafā Ziyāda. Cairo: Maṭba'a Lajna al-Tā'līf wa-Tarjam wa-Nashr, 1972.
 
-Appellániz Ruiz de Galarreta, Francisco Javier. “Pouvoir et Finance en Méditerranée pré-Moderne: Le deuxième état mamelouk et le commerce des épices (1382-1517).” Anuario de Estudios Medievales Anejo 66. Barcelona: Consejo Superior de Investigaciones Científicas, 2006.
+Appellániz Ruiz de Galarreta, Francisco Javier. "Pouvoir et Finance en Méditerranée pré-Moderne: Le deuxième état mamelouk et le commerce des épices (1382-1517)." *Anuario de Estudios Medievales Anejo* 66\. Barcelona: Consejo Superior de Investigaciones Científicas, 2006.
 
-Ayalon, David. “The System of Payment in Mamluk Military Society.” Journal of the Economic and Social History of the Orient 1/3 (1958).
+Ayalon, David. "The System of Payment in Mamluk Military Society." *Journal of the Economic and Social History of the Orient* 1/3 (1958).
 
-Brinner, W.M. “Ibn Iyās.” In Encyclopaedia of Islam, Second Edition. Edited by P. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel, W.P. Heinrichs. Online. First published 	online:  Brill, 2012.
+Brinner, W.M. "Ibn Iyās." In *Encyclopaedia of Islam*, Second Edition. Edited by P. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel, W.P. Heinrichs. Online. First published online: Brill, 2012.
 
-Brummett, Palmira. Ottoman Sea-Power and Levantine Diplomacy in the Age of Discovery. Albany, NY: State University of New York Press, 1994.
+Brummett, Palmira. *Ottoman Sea-Power and Levantine Diplomacy in the Age of Discovery*. Albany, NY: State University of New York Press, 1994.
 
-Deguilhem, Randi. “Waḳf: IV in the Ottoman Empire to 1914.” In Encyclopaedia of Islam,  Second Edition. Edited by P. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel, W.P. Heinrichs. Online. First published online: Brill, 2012.
+Deguilhem, Randi. "Waḳf: IV in the Ottoman Empire to 1914." In *Encyclopaedia of Islam*, Second Edition. Edited by P. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel, W.P. Heinrichs. Online. First published online: Brill, 2012.
 
-Dols, Michael W. The Black Death in the Middle East. Princeton: Princeton University Press, 1977.
+Dols, Michael W. *The Black Death in the Middle East*. Princeton: Princeton University Press, 1977.
 
-Fuess, Albrecht. “How to Cope with the Scarcity of Commodities? The Mamluk‘s quest for Metal.” In The Mamluk Sultanate and its Neighbors: Economic, Social and Cultural Entanglements, edited by Reuven Amitai and Stephan Conermann, pp. 61-74. Göttingen: Bonn University Press, 2019.
+Fuess, Albrecht. "How to Cope with the Scarcity of Commodities? The Mamluk's quest for Metal." In *The Mamluk Sultanate and its Neighbors: Economic, Social and Cultural Entanglements*, edited by Reuven Amitai and Stephan Conermann, pp. 61-74. Göttingen: Bonn University Press, 2019.
 
------. “Les Janissaires, les Mamlouks et les armes à feu. Une comparaison des systèmes 	militaires ottoman et mamlouk à partir de la moitié du quinzième siècle.” Turcica 41 (2009).
+-----. "Les Janissaires, les Mamlouks et les armes à feu. Une comparaison des systèmes militaires ottoman et mamlouk à partir de la moitié du quinzième siècle." *Turcica* 41 (2009).
 
------, “Mamluk Politics.” In Ubi sumus? Quo vademus? Mamluk Studies – State of the Art, edited by Stephan Conermann, pp. 95-117. Göttingen: Bonn University Press, 2013.
+-----, "Mamluk Politics." In *Ubi sumus? Quo vademus? Mamluk Studies -- State of the Art*, edited by Stephan Conermann, pp. 95-117. Göttingen: Bonn University Press, 2013.
 
-Halm, Heinz. “Die Ayyubiden.” In Geschichte der arabischen Welt, edited by Ulrich Haarmann. München: Beck, 2005.
+Halm, Heinz. "Die Ayyubiden." In *Geschichte der arabischen Welt,* edited by Ulrich Haarmann*.* München: Beck, 2005.
 
-Heidemann, Stefan. “Charity and Piety for the Transformation of the Cities. The New Direction in Taxation and Waqf Policy in Mid-Twelfth-Century Syria and Northern Mesopotamia.” In Charity and Giving in Monotheistic Religions, edited by Miriam Frenkel and Yaacov Lev, pp 153-174. New York: De Gruyter, 2009.
+Heidemann, Stefan. "Charity and Piety for the Transformation of the Cities. The New Direction in Taxation and Waqf Policy in Mid-Twelfth-Century Syria and Northern Mesopotamia." In *Charity and Giving in Monotheistic Religions*, edited by Miriam Frenkel and Yaacov Lev, pp 153-174. New York: De Gruyter, 2009.
 
------. “How to Measure Economic Growth in the Middle East? A Framework of Inquiry for the Middle Islamic Period.” In Material Evidence and Narrative Sources. Interdisciplinary 	Studies of the History of the Midlle East, edited by Daniella Talmon-Heller and Katia Cytryn-Sylverman, pp. 30-57. Leiden: Brill, 2015.
+-----. "How to Measure Economic Growth in the Middle East? A Framework of Inquiry for the Middle Islamic Period." In *Material Evidence and Narrative Sources. Interdisciplinary Studies of the History of the Midlle East,* edited by Daniella Talmon-Heller and Katia Cytryn-Sylverman, pp. 30-57. Leiden: Brill, 2015.
 
-Holt, Peter M. The Age of the Crusades. The Near East from the Eleventh Century to 1517. London: Longman, 1986.
+Holt, Peter M. *The Age of the Crusades. The Near East from the Eleventh Century to 1517*. London: Longman, 1986.
 
-Ibn Iyās, Muḥammad ibn Aḥmad. Badāʾiʿ al-ẓuhūr fī waqāʾiʿ al-duhūr, edited by Mohamed Mostafa. Wiesbaden: Franz Steiner, 1963.
+Ibn Iyās, Muḥammad ibn Aḥmad. *Badāʾiʿ al-ẓuhūr fī waqāʾiʿ al-duhūr*, edited by Mohamed Mostafa. Wiesbaden: Franz Steiner, 1963.
 
-Ibn Taghrībirdī, Jamāl al-Dīn Yūsuf. History of Egypt 1382-1469, 9 vols. Translated by William Popper. Berkeley: University of California Press, 1954-1960.
+Ibn Taghrībirdī, Jamāl al-Dīn Yūsuf. *History of Egypt 1382-1469*, 9 vols. Translated by William Popper. Berkeley: University of California Press, 1954-1960.
 
-Igarashi, Daisuke. “The Establishment and Development of al-Dīwān al-Mufrad: Its Background and Implications.” Mamluk Studies Review 10/1 (2006).
+Igarashi, Daisuke. "The Establishment and Development of al-Dīwān al-Mufrad: Its Background and Implications." *Mamluk Studies Review* 10/1 (2006).
 
------. Land Tenure, Fiscal Policy, and Imperial Power in Medieval Syro-Egypt. Chicago: Center for Middle Eastern Studies, The University of Chicago, 2015.
+*-----. Land Tenure, Fiscal Policy, and Imperial Power in Medieval Syro-Egypt*. Chicago: Center for Middle Eastern Studies, The University of Chicago, 2015.
 
-Irwin, Robert. “Iqṭāʿ and the End of the Crusader States.” In The Eastern Mediterranean Lands in the Period of the Crusades, edited by P.M. Holt. Warminster: Aris & Phillips, 1977.
+Irwin, Robert. "*Iqṭāʿ* and the End of the Crusader States." In *The Eastern Mediterranean Lands in the Period of the Crusades*, edited by P.M. Holt. Warminster: Aris & Phillips, 1977.
 
-Levanoni, Amalia. A Turning Point in Mamluk History: The Third Reign of an-Nāṣir Muḥammad Ibn Qalāwūn 1310-1341. Leiden: Brill, 1995.
+Levanoni, Amalia. *A Turning Point in Mamluk History: The Third Reign of an-Nāṣir Muḥammad Ibn Qalāwūn 1310-1341*. Leiden: Brill, 1995.
 
-Northrup, Linda. From Slave to Sultan: The Career of al-Manṣūr Qalāwūn and the Consolidation of Mamluk Rule in Egypt and Syria (678-689 A.H./1279-1290 AD). Stuttgart: Franz Steiner, 1998.
+Northrup, Linda. *From Slave to Sultan: The Career of al-Manṣūr Qalāwūn and the Consolidation of Mamluk Rule in Egypt and* Syria *(678-689 A.H./1279-1290 AD)*. Stuttgart: Franz Steiner, 1998.
 
-Petry, Carl. Protectors or Praetorians? The Last Mamluk Sultans and Egypt’s Waning as a Great Power. Albany: State University of New York Press, 1994.
+Petry, Carl. *Protectors or Praetorians? The Last Mamluk Sultans and Egypt's Waning as a Great Power*. Albany: State University of New York Press, 1994.
 
------. "Waqf as an Instrument of Investment in the Mamluk Sultanate: Security vs. Profit?." In Slave Elites in the Middle East and Africa, edited by Miura Toru and John Edward Philips. London: Kegan Paul, 2000.
+-----. "Waqf as an Instrument of Investment in the Mamluk Sultanate: Security vs. Profit?." In *Slave Elites in the Middle East and Africa*, edited by Miura Toru and John Edward Philips. London: Kegan Paul, 2000.
 
-Popper, W. “Abu ’l-Maḥāsin Ḏj̲amāl al-Dīn Yūsuf b. Tag̲h̲rībirdī.” In Encyclopaedia of Islam, Second Edition. Edited by P. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel, W.P. Heinrichs. Online. First published online: Brill, 2012.
+Popper, W. "Abu 'l-Maḥāsin Ḏj̲amāl al-Dīn Yūsuf b. Tag̲h̲rībirdī." In *Encyclopaedia of Islam*, Second Edition. Edited by P. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel, W.P. Heinrichs. Online. First published online: Brill, 2012.
 
-Reinfandt, Lucian. Mamlukische Sultansstiftungen des 9./15. Jahrhunderts: Nach den Urkunden der Stifter al-Ashraf Īnāl. Berlin: Schwarz, 2003.
+Reinfandt, Lucian. *Mamlukische Sultansstiftungen des 9./15. Jahrhunderts: Nach den Urkunden der Stifter al-Ashraf Īnāl*. Berlin: Schwarz, 2003.
 
-Rosenthal, Franz. “al-Maḳrīzī.” In Encyclopaedia of Islam, Second Edition. Edited by P. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel, W.P. Heinrichs. Online. First published online: Brill, 2012.
+Rosenthal, Franz. "al-Maḳrīzī." In *Encyclopaedia of Islam*, Second Edition. Edited by P. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel, W.P. Heinrichs. Online. First published online: Brill, 2012.
 
-Sabra, Adam. “The Rise of a New Class? Land Tenure in Fifteenth-Century Egypt: A Review Article.” Mamluk Studies Review 8/2 (2004).
+Sabra, Adam. "The Rise of a New Class? Land Tenure in Fifteenth-Century Egypt: A Review Article." *Mamluk Studies Review* 8/2 (2004).
 
-Sato, Tsugitaka. State and Rural Society in Medieval Islam, Muqṭās and Fallahun. Leiden: Brill, 1997.
+Sato, Tsugitaka. *State and Rural Society in Medieval Islam*, *Muqṭās and Fallahun*. Leiden: Brill, 1997.
 
 #### Footnotes
 
