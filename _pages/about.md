@@ -2,6 +2,7 @@
 title: "About"
 excerpt: "An overview of the EGYLandscape Project"
 toc: true
+toc_sticky: true
 layout: single
 permalink: /about/
 ---
