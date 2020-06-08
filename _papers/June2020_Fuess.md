@@ -125,6 +125,8 @@ Sabra, Adam. “The Rise of a New Class? Land Tenure in Fifteenth-Century Egypt:
 
 Sato, Tsugitaka. State and Rural Society in Medieval Islam, Muqṭās and Fallahun. Leiden: Brill, 1997.
 
+#### Footnotes
+
 [^1]: ʿImād Badr al-Dīn Abū Ghāzī, Fī Tārīkh Miṣr al-Ijtimā‘ī: Taṭawwur al-Ḥiyāzah al-Zirā‘īyah Zamān al-Mamālīk al-Jarākisah (On the social history of Egypt: the development of landholding in the age of the Circassian Mamluks) (Cairo: ʿAyn lil-Dirāsāt wa-‘l-Buḥūth al-Insānīyah wa-‘l-Ijtima’īyah, 2000).
 
 [^2]: Robert Irwin, “Iqṭāʿ and the End of the Crusader States,” in The Eastern Mediterranean Lands in the Period of the Crusades, edited by Peter M. Holt (Warminster: Aris & Phillips 1977): pp. 66-68; Peter M. Holt, The Age of the Crusades: The Near East from the Eleventh Century to 1517 (London: Longman, 1986), p. 147.
