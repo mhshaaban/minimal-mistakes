@@ -20,16 +20,9 @@ gallery:
   - url: /_activities/2019_BA_Alexandria_005.JPG
     image_path: /_activities/2019_BA_Alexandria_005.JPG
     alt: "placeholder image 5"
-  - url: /_activities/2019_BA_Alexandria_006.JPG
-    image_path: /_activities/2019_BA_Alexandria_006.JPG
-    alt: "placeholder image 6"
-  - url: /_activities/2019_BA_Alexandria_007.JPG
-    image_path: /_activities/2019_BA_Alexandria_007.JPG
-    alt: "placeholder image 7"
-  - url: /_activities/2019_BA_Alexandria_008.JPG
-    image_path: /_activities/2019_BA_Alexandria_008.JPG
-    alt: "placeholder image 8"
 ---
+
+[*Download PDF Here*](https://mhshaaban.github.io/minimal-mistakes/activities/June2020_Fuess_WorkingPaper.pdf)
 
 ## EGYLandscape Project Panel 
 **Islamic Civilization Studies Center (Bibliotheca Alexandrina) - Alexandria, Egypt**
