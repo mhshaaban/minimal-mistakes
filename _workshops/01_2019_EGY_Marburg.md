@@ -5,29 +5,29 @@ toc: true
 toc_sticky: true
 layout: single
 gallery:
-  - url: /assets/images/Marburg_EGY_Sept__001.JPG
-    image_path: /assets/images/Marburg_EGY_Sept_001.JPG
+  - url: /assets/images/Marburg_EGY_Sept__001.jpeg
+    image_path: /assets/images/Marburg_EGY_Sept_001.jpeg
     alt: "placeholder image 1"
-  - url: /assets/images/Marburg_EGY_Sept_002.JPG
-    image_path: /assets/images/Marburg_EGY_Sept_002.JPG
+  - url: /assets/images/Marburg_EGY_Sept_002.jpeg
+    image_path: /assets/images/Marburg_EGY_Sept_002.jpeg
     alt: "placeholder image 2"
-  - url: /assets/images/Marburg_EGY_Sept__003.JPG
-    image_path: /assets/images/Marburg_EGY_Sept_003.JPG
+  - url: /assets/images/Marburg_EGY_Sept__003.jpeg
+    image_path: /assets/images/Marburg_EGY_Sept_003.jpeg
     alt: "placeholder image 3"
-  - url: /assets/images/Marburg_EGY_Sept_004.JPG
-    image_path: /assets/images/Marburg_EGY_Sept_004.JPG
+  - url: /assets/images/Marburg_EGY_Sept_004.jpeg
+    image_path: /assets/images/Marburg_EGY_Sept_004.jpeg
     alt: "placeholder image 4"
-  - url: /assets/images/Marburg_EGY_Sept__005.JPG
-    image_path: /assets/images/Marburg_EGY_Sept_005.JPG
+  - url: /assets/images/Marburg_EGY_Sept__005.jpeg
+    image_path: /assets/images/Marburg_EGY_Sept_005.jpeg
     alt: "placeholder image 5"
-  - url: /assets/images/Marburg_EGY_Sept_006.JPG
-    image_path: /assets/images/Marburg_EGY_Sept_006.JPG
+  - url: /assets/images/Marburg_EGY_Sept_006.jpeg
+    image_path: /assets/images/Marburg_EGY_Sept_006.jpeg
     alt: "placeholder image 6"
-  - url: /assets/images/Marburg_EGY_Sept__007.JPG
-    image_path: /assets/images/Marburg_EGY_Sept_007.JPG
+  - url: /assets/images/Marburg_EGY_Sept__007.jpeg
+    image_path: /assets/images/Marburg_EGY_Sept_007.jpeg
     alt: "placeholder image 7"
-  - url: /assets/images/Marburg_EGY_Sept_008.JPG
-    image_path: /assets/images/Marburg_EGY_Sept_008.JPG
+  - url: /assets/images/Marburg_EGY_Sept_008.jpeg
+    image_path: /assets/images/Marburg_EGY_Sept_008.jpeg
     alt: "placeholder image 8"
 ---
 
