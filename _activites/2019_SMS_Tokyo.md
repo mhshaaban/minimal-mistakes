@@ -21,8 +21,6 @@ Even before our project’s official inaugural workshop in Marburg, some of the 
 
 In addition to presenting the panel, there were a number of other EGYLandscape members present, which gave us a great opportunity to get together and talk about our future plans and the upcoming Marburg workshop. Also attending the conference were project leader Prof. Nicolas Michel (Aix-Marseille University) and Prof. Daisuke Igarashi (Waseda University). 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
 Here you can find the abstracts for the EGYLandscape Panel’s talks.
 
 ### Yossef Rapoport (Queen Mary University of London):
