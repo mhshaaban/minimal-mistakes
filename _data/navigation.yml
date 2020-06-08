@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Team Members"
-    url: /members-archive/  
+    url: /members/  
   - title: "Activities"
     url: /activities/
   - title: "Working Papers"
