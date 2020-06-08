@@ -5,29 +5,29 @@ toc: true
 toc_sticky: true
 layout: single
 gallery:
-  - url: /_activities/Marburg_EGY_Sept__001.JPG
-    image_path: /_activities/Marburg_EGY_Sept_001.JPG
+  - url: /activities/Marburg_EGY_Sept__001.JPG
+    image_path: /activities/Marburg_EGY_Sept_001.JPG
     alt: "placeholder image 1"
-  - url: /_activities/Marburg_EGY_Sept_002.JPG
-    image_path: /_activities/Marburg_EGY_Sept_002.JPG
+  - url: /activities/Marburg_EGY_Sept_002.JPG
+    image_path: /activities/Marburg_EGY_Sept_002.JPG
     alt: "placeholder image 2"
-  - url: /_activities/Marburg_EGY_Sept__003.JPG
-    image_path: /_activities/Marburg_EGY_Sept_003.JPG
+  - url: /activities/Marburg_EGY_Sept__003.JPG
+    image_path: /activities/Marburg_EGY_Sept_003.JPG
     alt: "placeholder image 3"
-  - url: /_activities/Marburg_EGY_Sept_004.JPG
-    image_path: /_activities/Marburg_EGY_Sept_004.JPG
+  - url: /activities/Marburg_EGY_Sept_004.JPG
+    image_path: /activities/Marburg_EGY_Sept_004.JPG
     alt: "placeholder image 4"
-  - url: /_activities/Marburg_EGY_Sept__005.JPG
-    image_path: /_activities/Marburg_EGY_Sept_005.JPG
+  - url: /activities/Marburg_EGY_Sept__005.JPG
+    image_path: /activities/Marburg_EGY_Sept_005.JPG
     alt: "placeholder image 5"
-  - url: /_activities/Marburg_EGY_Sept_006.JPG
-    image_path: /_activities/Marburg_EGY_Sept_006.JPG
+  - url: /activities/Marburg_EGY_Sept_006.JPG
+    image_path: /activities/Marburg_EGY_Sept_006.JPG
     alt: "placeholder image 6"
-  - url: /_activities/Marburg_EGY_Sept__007.JPG
-    image_path: /_activities/Marburg_EGY_Sept_007.JPG
+  - url: /activities/Marburg_EGY_Sept__007.JPG
+    image_path: /activities/Marburg_EGY_Sept_007.JPG
     alt: "placeholder image 7"
-  - url: /_activities/Marburg_EGY_Sept_008.JPG
-    image_path: /_activities/Marburg_EGY_Sept_008.JPG
+  - url: /activities/Marburg_EGY_Sept_008.JPG
+    image_path: /activities/Marburg_EGY_Sept_008.JPG
     alt: "placeholder image 8"
 ---
 
