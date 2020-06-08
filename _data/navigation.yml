@@ -8,5 +8,7 @@ main:
     url: /members/  
   - title: "Activities"
     url: /activities/
+  - title: "Workshops"
+    url: /workshops/
   - title: "Working Papers"
     url: /papers/
