@@ -5,29 +5,29 @@ toc: true
 toc_sticky: true
 layout: single
 gallery:
-  - url: /workshops/Marburg_EGY_Sept__001.JPG
-    image_path: /workshops/Marburg_EGY_Sept_001.JPG
+  - url: /assets/images/Marburg_EGY_Sept__001.JPG
+    image_path: /assets/images/Marburg_EGY_Sept_001.JPG
     alt: "placeholder image 1"
-  - url: /workshops/Marburg_EGY_Sept_002.JPG
-    image_path: /workshops/Marburg_EGY_Sept_002.JPG
+  - url: /assets/images/Marburg_EGY_Sept_002.JPG
+    image_path: /assets/images/Marburg_EGY_Sept_002.JPG
     alt: "placeholder image 2"
-  - url: /workshops/Marburg_EGY_Sept__003.JPG
-    image_path: /workshops/Marburg_EGY_Sept_003.JPG
+  - url: /assets/images/Marburg_EGY_Sept__003.JPG
+    image_path: /assets/images/Marburg_EGY_Sept_003.JPG
     alt: "placeholder image 3"
-  - url: /workshops/Marburg_EGY_Sept_004.JPG
-    image_path: /workshops/Marburg_EGY_Sept_004.JPG
+  - url: /assets/images/Marburg_EGY_Sept_004.JPG
+    image_path: /assets/images/Marburg_EGY_Sept_004.JPG
     alt: "placeholder image 4"
-  - url: /workshops/Marburg_EGY_Sept__005.JPG
-    image_path: /workshops/Marburg_EGY_Sept_005.JPG
+  - url: /assets/images/Marburg_EGY_Sept__005.JPG
+    image_path: /assets/images/Marburg_EGY_Sept_005.JPG
     alt: "placeholder image 5"
-  - url: /workshops/Marburg_EGY_Sept_006.JPG
-    image_path: /workshops/Marburg_EGY_Sept_006.JPG
+  - url: /assets/images/Marburg_EGY_Sept_006.JPG
+    image_path: /assets/images/Marburg_EGY_Sept_006.JPG
     alt: "placeholder image 6"
-  - url: /workshops/Marburg_EGY_Sept__007.JPG
-    image_path: /workshops/Marburg_EGY_Sept_007.JPG
+  - url: /assets/images/Marburg_EGY_Sept__007.JPG
+    image_path: /assets/images/Marburg_EGY_Sept_007.JPG
     alt: "placeholder image 7"
-  - url: /workshops/Marburg_EGY_Sept_008.JPG
-    image_path: /workshops/Marburg_EGY_Sept_008.JPG
+  - url: /assets/images/Marburg_EGY_Sept_008.JPG
+    image_path: /assets/images/Marburg_EGY_Sept_008.JPG
     alt: "placeholder image 8"
 ---
 
