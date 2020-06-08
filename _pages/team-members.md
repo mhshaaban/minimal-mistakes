@@ -1,8 +1,8 @@
 ---
 title: Team Members
 layout: collection
-permalink: /team-members/
-collection: team-members
+permalink: /members/
+collection: members
 entries_layout: grid
 classes: wide
 ---
