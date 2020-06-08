@@ -14,7 +14,7 @@ layout: single
 
 ### Waqfization in the late Mamluk Empire: A deliberate policy or chaos management?
 
-### Introduction 
+#### Introduction 
 	
 One of the main question for early modern societies is the aspect of how to organize land tenureship and its taxation. Here, the Mamluk Empire is no odd one out. Several reforms and re-adjustments took place during its existence, which were conducted in reaction to changing circumstances. A major development, in this context, thereby took place in the fifteenth century: the so-called *waqfization* of land tenureship. The term *waqfization* means here the increase of *waqf* lands (i.e. those held by religious endowments) issued by Mamluk authorities to members of the military and urban elite to the detriment of the traditional *iqṭāʿ* system. This was combined with an increase in forms of direct cash payments to soldiers instead of the indirect payments made through the *iqṭāʿ* system. While we know that around half of the cultivable land was transformed into *waqf* land at the beginning of the sixteenth century[^1], we still are fumbling in the dark about the actual reasons that triggered the process. The present contribution will therefore look at the question of whether *waqfization* represented a planned policy of the Mamluk sultans or if it came about as a gradual change due to historical circumstances. In the following working paper, the development of land taxation under the Mamluks and some views on the issue by three Mamluk historians will be presented. This will be followed by arguments of modern scholars and then an elaboration of my own personal hypothesis. 
 
