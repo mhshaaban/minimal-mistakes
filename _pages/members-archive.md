@@ -1,7 +1,7 @@
 ---
 title: Members
 layout: collection
-permalink: /members/
+permalink: /members-archive/
 collection: members
 entries_layout: grid
 classes: wide
