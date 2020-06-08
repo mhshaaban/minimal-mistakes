@@ -6,7 +6,7 @@ layout: single
 ---
 
 
-[*Download PDF Here*](https://mhshaaban.github.io/egylandscape/papers/June2020_Fuess_WorkingPaper.pdf)
+[*Download PDF Here*](https://mhshaaban.github.io/minimal-mistakes/papers/June2020_Fuess_WorkingPaper.pdf)
 
 ## Albrecht Fuess
 **Chair of Islamic Studies** 
