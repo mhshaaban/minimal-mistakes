@@ -31,9 +31,15 @@ gallery:
     alt: "placeholder image 8"
 ---
 
+{% include gallery caption="Photos From The Inaugural Workshop of the EGYLandscape Project" %}
+
 ## Inaugural Workshop of the EGYLandscape Project: Sources, Methods, and Tools
 **Center for Near and Middle Eastern Studies – Philipps-Universität Marburg**
 *3-5 September 2019*
+
+[*Download Program Here*](https://mhshaaban.github.io/minimal-mistakes/workshops/EGYLandscape_Marburg2019_Workshop_Program.pdf)
+
+[*Download Flier Here*](https://mhshaaban.github.io/minimal-mistakes/workshops/EGYLandscapes_Marburg_Flier.jpg)
 
 The inaugural workshop to kick-off the EGYLandscape Project took place over three fascinating and busy days in September at the University of Marburg in Germany. The first workshop was centered on giving the project focus and momentum as well as laying the groundwork for its duration.  In addition to becoming acquainted with each other’s research projects, the workshop also gave a space for the project team to get to know each other. Fostering collegiality in the EGYLandscape Project team is important to the project’s overall goals of scholarly cooperation and the development of an interdisciplinary approach to environmental studies in medieval and early modern Egypt. As such, the workshop started with a welcome reception at the Center for Near and Middle Eastern Studies on the evening of 3 September. From the start, it was clear that the project encourages collaboration amongst the international team in an interdisciplinary approach that bridges the gap between archaeologists and historians, with special attention to geography, environment, and mapping.
 
