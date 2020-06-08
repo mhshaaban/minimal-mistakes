@@ -8,6 +8,7 @@ layout: single
 [*Download PDF Here*](https://mhshaaban.github.io/egylandscape/papers/June2020_Fuess_WorkingPaper.pdf)
 
 ## Albrecht Fuess
+**Chair of Islamic Studies** 
 *Philipps-Universität Marburg*
 
 ### Waqfization in the late Mamluk Empire: A deliberate policy or chaos management?
