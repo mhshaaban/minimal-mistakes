@@ -1,14 +1,13 @@
 ---
 title: "Nicolas Michel"
-excerpt: "Nicolas Michel."
+excerpt: "Project Leader - French Team"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: assets/images/nicolas_michel.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
+  - title: "Nicolas Michel"
+    image: assets/images/nicolas_michel.jpg
     image_alt: "logo"
-    text: "Project Leader"
+    text: "Project Leader - French Team"
 ---
 
 ## Nicolas Michel
