@@ -13,6 +13,8 @@ gallery:
     alt: "placeholder image 2"
 ---
 
+{% include gallery caption="Photos From The EGYLandscape Panel At MESA" %}
+
 ## 53rd Annual Meeting of the Middle East Studies Association
 **New Orleans, Louisiana (USA)**
 *14-17 November 2019*
