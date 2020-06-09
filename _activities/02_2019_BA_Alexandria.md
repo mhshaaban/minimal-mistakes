@@ -11,7 +11,7 @@ gallery:
   - url: /activities/2019_BA_Alexandria_002.jpg
     image_path: /activities/2019_BA_Alexandria_002.jpg
     alt: "placeholder image 2"
-  - url: /activities/T2019_BA_Alexandria_003.jpg
+  - url: /activities/2019_BA_Alexandria_003.jpg
     image_path: /activities/2019_BA_Alexandria_003.jpg
     alt: "placeholder image 3"
   - url: /activities/2019_BA_Alexandria_004.jpg
@@ -23,6 +23,8 @@ gallery:
 ---
 
 {% include gallery caption="Photos From The EGYLandscape Project Panel" %}
+
+[*Download Program Flier Here*](https://mhshaaban.github.io/minimal-mistakes/activities/2019_BA_Alexandria_005.jpg)
 
 ## EGYLandscape Project Panel 
 **Islamic Civilization Studies Center (Bibliotheca Alexandrina) - Alexandria, Egypt**
