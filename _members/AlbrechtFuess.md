@@ -1,8 +1,6 @@
 ---
 title: "Albrecht Fuess"
 excerpt: "Project Leader - German Team"
-header:
-  teaser: assets/images/albrecht_fuess.jpg
 sidebar:
   - title: "Prof. Albrecht Fuess"
     image: assets/images/albrecht_fuess.jpg
