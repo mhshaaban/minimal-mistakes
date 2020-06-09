@@ -13,8 +13,6 @@ toc_sticky: true
 layout: single
 ---
 
-## Albrecht Fuess
-
 ### EGYLandscape Working Paper(s)
 
-[*Download PDF Here*](https://mhshaaban.github.io/minimal-mistakes/papers/June2020_Fuess/)
+[*Waqfization in the late Mamluk Empire: A deliberate policy or chaos management?*](https://mhshaaban.github.io/minimal-mistakes/papers/June2020_Fuess/)
