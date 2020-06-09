@@ -17,9 +17,6 @@ gallery:
   - url: /activities/2019_BA_Alexandria_004.jpg
     image_path: /activities/2019_BA_Alexandria_004.jpg
     alt: "placeholder image 4"
-  - url: /activities/2019_BA_Alexandria_005.jpg
-    image_path: /activities/2019_BA_Alexandria_005.jpg
-    alt: "placeholder image 5"
 ---
 
 {% include gallery caption="Photos From The EGYLandscape Project Panel" %}
