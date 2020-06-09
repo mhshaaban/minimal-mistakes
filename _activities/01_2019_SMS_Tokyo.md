@@ -13,6 +13,8 @@ gallery:
     alt: "placeholder image 2"
 ---
 
+{% include gallery caption="Photos From The Sixth Conference of the School of Mamluk Studies" %}
+
 ## Sixth Conference of the School of Mamluk Studies
 **Waseda University, Tokyo, Japan**
 *15-17 June 2019*
