@@ -22,6 +22,8 @@ gallery:
     alt: "placeholder image 5"
 ---
 
+{% include gallery caption="Photos From The EGYLandscape Project Panel" %}
+
 ## EGYLandscape Project Panel 
 **Islamic Civilization Studies Center (Bibliotheca Alexandrina) - Alexandria, Egypt**
 *31 October 2019*
