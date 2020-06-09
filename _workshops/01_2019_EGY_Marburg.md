@@ -17,18 +17,13 @@ gallery:
   - url: /assets/images/Marburg_EGY_Sept_004.jpeg
     image_path: /assets/images/Marburg_EGY_Sept_004.jpeg
     alt: "placeholder image 4"
-  - url: /assets/images/Marburg_EGY_Sept__005.jpeg
-    image_path: /assets/images/Marburg_EGY_Sept_005.jpeg
+  - url: /assets/images/Marburg_EGY_Sept_008.jpeg
+    image_path: /assets/images/Marburg_EGY_Sept_008.jpeg
     alt: "placeholder image 5"
   - url: /assets/images/Marburg_EGY_Sept_006.jpeg
     image_path: /assets/images/Marburg_EGY_Sept_006.jpeg
     alt: "placeholder image 6"
-  - url: /assets/images/Marburg_EGY_Sept__007.jpeg
-    image_path: /assets/images/Marburg_EGY_Sept_007.jpeg
-    alt: "placeholder image 7"
-  - url: /assets/images/Marburg_EGY_Sept_008.jpeg
-    image_path: /assets/images/Marburg_EGY_Sept_008.jpeg
-    alt: "placeholder image 8"
+
 ---
 
 {% include gallery caption="Photos From The Inaugural Workshop of the EGYLandscape Project" %}
