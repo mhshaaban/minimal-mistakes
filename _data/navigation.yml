@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: "./index.html"    
-  - title: "About"
-    url: /about/
-  - title: "Team Members"
-    url: /members/  
+    url: "./index.html" 
+  - title: Our Project
+    sublinks:
+      - title: "About"
+        url: /about/
+      - title: "Team Members"
+        url: /members/  
   - title: Activities
     sublinks:
       - title: "Workshops"
