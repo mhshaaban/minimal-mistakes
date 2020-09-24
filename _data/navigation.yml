@@ -6,9 +6,13 @@ main:
     url: /about/
   - title: "Team Members"
     url: /members/  
-  - title: "Activities"
-    url: /activities/
-  - title: "Workshops"
-    url: /workshops/
+  - title: Activities
+    sublinks:
+      - title: "Workshops"
+        url: /workshops/
+      - title: "Activities"
+        url: /activities/
   - title: "Working Papers"
     url: /papers/
+  - title: "Blog"
+    url: /blog/
